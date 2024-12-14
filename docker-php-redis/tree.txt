@@ -1,0 +1,20 @@
+.
+├── Dockerfile
+├── app
+│   ├── companyBrowse.php
+│   ├── department_employees.php
+│   ├── deptView.php
+│   ├── employee_lookup.php
+│   ├── employee_result.php
+│   └── index.php
+├── data
+│   ├── department.dat
+│   ├── dependent.dat
+│   ├── dloc.dat
+│   ├── employee.dat
+│   ├── project.dat
+│   └── worksOn.dat
+├── docker-compose.yml
+└── tree.txt
+
+3 directories, 15 files
